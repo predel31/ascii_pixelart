@@ -1,0 +1,3 @@
+#!/home/serj/Документы/python/ascii pixelart/env_linux/bin/python3
+from numba.pycc import main
+main()
